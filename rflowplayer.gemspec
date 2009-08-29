@@ -37,6 +37,7 @@ Gem::Specification.new do |s|
      "init.rb",
      "install.rb",
      "lib/rflowplayer.rb",
+     "rflowplayer.gemspec",
      "tasks/rflowplayer_tasks.rake",
      "test/rflowplayer_test.rb",
      "test/test_helper.rb",
